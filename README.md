@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Joe
+- 👋 Hi, I’m Min
 - 🌱 I’m currently studying computer science in Columbia University.
 - 📫 How to reach me? "my.joesong@gmail.com"
 
