@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Joe
-- 🌱 I’m currently a senior studying computer science in Columbia University.
-- 📫 How to reach me? "my.joesong@gmail.com"
+- Welcome to my Github
+- Please take a look at my website here: 
+- and if you have any questions or want to see my resume, send me an email "my.joesong@gmail.com"
 
 <!---
 smyjsp/smyjsp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
